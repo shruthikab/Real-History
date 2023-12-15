@@ -1,5 +1,5 @@
 ---
-title: "Section 1"
+title: "The Beginning"
 metaTitle: "This is the title tag of this page"
 metaDescription: "Causes of WWI"
 ---

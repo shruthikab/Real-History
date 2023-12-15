@@ -1,5 +1,5 @@
 ---
-title: "Section 2"
+title: "Diplomatic Relations"
 metaTitle: "This is the title tag of this page"
 metaDescription: "Causes of WWI"
 ---

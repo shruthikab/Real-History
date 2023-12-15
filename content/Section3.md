@@ -1,5 +1,5 @@
 ---
-title: "Section 2"
+title: "Annexation of Texas"
 metaTitle: "This is the title tag of this page"
 metaDescription: "Causes of WWI"
 ---
