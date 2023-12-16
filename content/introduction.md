@@ -4,34 +4,27 @@ metaTitle: "This is the title tag of this page"
 metaDescription: "This is the meta description"
 ---
 
-Some introduction text. Lists out all the headings from h1 to h6. Markdown link handling for relative and absolute URLs. Easy to customise.
+Welcome to a comprehensive exploration of the history that shaped the Mexican-American War, which was a pivotal conflict that transformed the geopolitical landscape of North America. This journey will unravel the ideologies and political influences that built up tension between the United States and Mexico, ultimately culminating in a war that left an indelible mark on both nations.   
 
-# Heading H1
-Heading 1 text
+# Table of Contents
+Subtopics
 
-## Heading H2
-Heading 2 text
+## Section 1
+How it All Began
 
-### Heading H3
-Heading 3 text
+## Section 2
+A Series of Events
 
-#### Heading H4
-Heading 4 text
+## Section 3
+The Annexation of Texas
 
-##### Heading H5
-Heading 5 text
+## Section 4
+Diplomatic Relations
 
-###### Heading H6
+## Section 5
 Heading 6 text
 
-## Lists
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+## Section 6
+References
 
-## Links
 
-* Relative: [Codeblock](/codeblock)
-* Absolute: [Demo](https://learn.hasura.io/graphql/react)

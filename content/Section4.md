@@ -3,8 +3,9 @@ title: "Diplomatic Relations"
 metaTitle: "This is the title tag of this page"
 metaDescription: "Causes of WWI"
 ---
-## Causes of the First World War
-### Assasination of Prince Ferdinand
+## How did diplomatic efforts influence the growing tensions between Mexico and the United States?
+
+
 > 4) Diplomatic efforts became critical in managing the growing tensions in the mid-19th century as the United States and Mexico struggled with the complicated fallout from territorial expansion and changing political dynamics. This section explores the complex web of political gamesmanship and significant incidents that strained relations between the two countries, including the disputed boundary and the disastrous Slidell Mission.
 An important turning point in diplomatic history, the unsuccessful Slidell Mission of 1845 highlights the difficulties both countries encountered in resolving their issues. In order to negotiate the purchase of contested regions, such as California and New Mexico, John Slidell, a representative of the United States, was sent to Mexico. But in the middle of already tense ties between the two countries, the mission failed. Resentful of US expansionist aspirations and mired in its own internal strife, Mexico turned down Slidell's advances. This diplomatic blow not only increased mistrust between the two countries, but it also signaled a turning point and brought them closer to war.
 Diplomatic tensions were further heightened by the border conflict. Boundaries between the two countries became more contentious after the United States annexed Texas in 1845, a move that Mexico fiercely opposed. Mexico maintained that the border was the Nueces River, which was farther north, but the United States claimed the Rio Grande as the official border. This argument set the stage for a drawn-out and divisive debate that would be crucial to the events leading up to the Mexican-American War.

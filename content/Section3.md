@@ -3,8 +3,7 @@ title: "Annexation of Texas"
 metaTitle: "This is the title tag of this page"
 metaDescription: "Causes of WWI"
 ---
-## Causes of the First World War
-### Assasination of Prince Ferdinand
+## How did the Annexation of Texas play as a key contributer in the Mexican-American War?
 > 3)  The annexation of Texas was one of the key moments that precipitated the Mexican-American War. Following Texas's 1836 declaration of independence from Mexico, the United States was faced with the complex "Texas Question," a dilemma that put the country's unity to the test and sparked passionate discussions both at home and abroad.
 Texas, calling itself the Lone Star Republic, applied to become a member of the US, an alluring proposition for those who were zealous about Manifest Destiny. The excellent soil and abundant economic potential of the Texan environment attracted American immigrants, and the prospect of annexation strongly appealed to expansionist emotions. 
 But the annexation process was paved with political scheming and contentious discussions that highlighted the divisions within the US government.
