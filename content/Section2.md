@@ -18,7 +18,6 @@ In the context of disputed regions like Texas and the Southwest: Texas, original
 *  John Gast painted American Progress in 1872. artist: John Gast Source: Library of Congress
 ![ManifestDestiny](images/ManifestDestiny.png)
 
-
 The Southwest, encompassing present-day California, New Mexico, Arizona, and more, was also a hotbed of Manifest Destiny-driven ambitions. The lure of California's gold, the promise of fertile agricultural land, and strategic considerations all contributed to the American desire to control these territories War (Knight 117).
 
 As the United States asserted its claims to these disputed regions, clashes with Mexico became inevitable. The sense of entitlement embedded in Manifest Destiny exacerbated conflicts, as Americans and Mexicans clashed over competing visions of territorial control. The ideological fervor of Manifest Destiny provided a potent backdrop to the events leading up to the Mexican-American War, as both nations grappled for dominance in the contested expanses of the Southwest.

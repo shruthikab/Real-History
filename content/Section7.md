@@ -9,7 +9,6 @@ metaDescription: "Section 7"
 
 > Sources used for this website's content
 
-
 -Castillo, Richard Griswold Del. The Treaty of Guadalupe Hidalgo: A Legacy of Conflict. University of Oklahoma Press, 1990. Accessed 10 Oct. 2023.
 
 -“14.2: The Mexican-American War.” Humanities LibreTexts, Libretexts, 10 July 2022, human.libretexts.org/Bookshelves/History/National_History/Book%3A_United_States_History_to_1877_(Locks_et_al.)/14%3A_Westward_Expansion/14.02%3A_The_Mexican-American_War. Accessed 10 Oct. 2023.

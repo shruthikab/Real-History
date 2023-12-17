@@ -15,9 +15,6 @@ The United States, driven by a sense of destiny and fueled by a rapidly growing 
 As American settlers moved westward, tensions mounted, and conflicts began. Cultural, economic, and political differences exacerbated the situation, laying the groundwork for a conflict that would come to a head in the form of the Mexican-American War (Knight 516).
 In this complex web of historical forces, Section 1 sets the backdrop for the interplay between Mexican struggles for stability, and the collision of two nations on a quest for expansion and identity. 
 
-
-> Ref: [title](paste link)
-
 > A summary of the final land ownership:
 * The Mexican Cession of the Treaty of Guadalupe Hidalgo, shown in white. The lands of the Gadsden Purchase are shown in brown. Author: National Atlas of the United States 
 ![BattleShips](images/Mexicancess.jpg)

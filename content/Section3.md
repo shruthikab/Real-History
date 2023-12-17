@@ -5,7 +5,7 @@ metaDescription: "Causes of WWI"
 ---
 ## Annexation of Texas and Political Maneuvering 
 
-> 3) How did the annexation of Texas play as a key contributer in the Mexican-American war?
+> How did the annexation of Texas play as a key contributer in the Mexican-American war?
 
 One of the most pivotal events that led to the Mexican-American War was the annexation of Texas. In the aftermath of Texas declaring its independence from Mexico in 1836, the United States found itself grappling with the multifaceted "Texas Question," a conundrum that tested the nation's unity and ignited impassioned debates on the domestic and international stage.
 
@@ -20,7 +20,6 @@ The debates in Congress reflected the nation's internal struggles and the delica
 
 The Texas Question, with its intricate interplay of political maneuvering, regional interests, and the slavery debate, encapsulates the complexities of American expansionism in the mid-19th century. It serves as a microcosm of the broader ideological and geopolitical forces at play during this transformative period, shedding light on the challenges faced by a nation striving to reconcile its manifest destiny with the realities of a changing and contested landscape.
 
-
 > Texas disputed:
-*  John Gast painted American Progress in 1872. artist: John Gast Source: Library of Congress
+* Source: Library of Congress
 ![ManifestDestiny](images/DisputedTexas.jpg)

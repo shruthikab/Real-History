@@ -7,7 +7,6 @@ metaDescription: "Causes of WWI"
 
 > What was the point where the Mexican-American tensions reached its peak?
 
-
 In the mid-19th century witnessed the culmination of tensions between the United States and Mexico, as a series of controversial events ignited the spark that would lead to the outbreak of the Mexican-American War in 1846. At the heart of these hostilities were long-standing disputes over the Texas-Mexico border, exacerbated by incidents like the Thornton Affair, which collectively pushed both nations to the brink of armed conflict.
 One of the critical incidents that heightened tensions was the Thornton Affair, a clash that occurred on April 25, 1846, along the disputed border between the Nueces River and the Rio Grande. American troops, led by Captain Seth Thornton, found themselves in a confrontation with Mexican forces. 
 
