@@ -1,18 +1,19 @@
 ---
-title: "The Beginning"
+title: Section 1
 metaTitle: "This is the title tag of this page"
-metaDescription: "Causes of WWI"
+metaDescription: "Section 1"
 ---
-## When did this narrative begin?
+## The Beginning
 
+> When did this narrative begin?
 
-> The narrative starts in the 18th century, when the United States sought to show its power and dominance over new lands by moving westward, driven by the idea of Manifest Destiny. The country had already doubled in size as a result of the Louisiana Purchase of 1803, which encouraged even more growth. 
+The story begins in the early 18th century when the United States, fueled by the ideology of Manifest Destiny, aimed to expand westward, seeking to assert its influence and control over new territories. At this point, the Louisiana Purchase had already doubled the size of the country, further inspiring expansion. 
 
-Concurrently, Mexico encountered internal difficulties in defining its own national identity and establishing a stable government, following its independence from Spain in 1821. Tensions with Mexico increased as Americans thought they were destined to spread over the continent. With both sides staking claims to the huge swaths of the Southwest, including Texas, New Mexico, and California, the boundary between the two countries became a flashpoint.
+Simultaneously, Mexico, having gained independence from Spain in 1821, faced internal challenges, struggling to define its own national identity and establish a stable government. While Americans believed they were destined to expand across the continent, this heightened tensions with the neighboring country Mexico (Foos 36). The border between the two nations became a hot spot, with each side asserting its claims to the vast territories of the Southwest, including Texas, New Mexico, and California. The Mexican government, aware of its tenuous hold on these distant lands, sought to establish control and prevent American interference. 
 
-Aware of its fragile grasp on these far-off areas, the Mexican government made an effort to seize authority and stop American intrusion.
-The United States saw these regions as essential to its vision of continental supremacy, propelled by a feeling of destiny and a fast expanding population. Tensions increased as American settlers migrated west, leading to clashes. Political, economic, and cultural divides made matters worse and set the stage for a confrontation that would culminate in the Mexican-American War.
-Section 1 provides context for the drama that is developing in this intricate web of historical events by illuminating the dynamic interactions between Manifest Destiny, Mexican battles for stability, and the collision of two countries seeking expansion and identity.
+The United States, driven by a sense of destiny and fueled by a rapidly growing population, viewed these territories as integral to its vision of continental dominance. 
+As American settlers moved westward, tensions mounted, and conflicts began. Cultural, economic, and political differences exacerbated the situation, laying the groundwork for a conflict that would come to a head in the form of the Mexican-American War (Knight 516).
+In this complex web of historical forces, Section 1 sets the backdrop for the interplay between Mexican struggles for stability, and the collision of two nations on a quest for expansion and identity. 
 
 
 > Ref: [title](paste link)

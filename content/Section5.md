@@ -1,19 +1,23 @@
 ---
-title: "The Start of the War"
+title: Section 5
 metaTitle: "This is the title tag of this page"
 metaDescription: "Causes of WWI"
 ---
-## What was the point where the Mexican-American tensions reached its peak?
+Increase of Tensions
 
 
-> 5) Tensions between the United States and Mexico reached a peak in the middle of the 19th century when a string of contentious incidents lit the fuse that would eventually result in the start of the Mexican-American War in 1846. 
+> ## What was the point where the Mexican-American tensions reached its peak?
 
-Long-standing disagreements over the Texas–Mexico border, made worse by episodes like the 
-Thornton Affair, which brought both countries dangerously close to war, were at the center of these tensions. The Thornton Affair, a conflict that took place on April 25, 1846, along the disputed border between the Nueces River and the Rio Grande, was one of the major events that increased tensions. Mexican forces and American troops under Captain Seth Thornton's command engaged in combat. There was disagreement over the precise border's location: Mexico insisted that the Nueces River should serve as the official border, while the United States insisted that the Rio Grande should serve as the border. The Thornton Affair, a short-lived but fierce fight that claimed several American troops' lives and led to their capture, exacerbated already sour ties between the two countries.
 
-The border between Texas and Mexico was a powder keg waiting to be lit. Texas' annexation by the United States in 1845 had been a divisive decision because Mexico fiercely resisted the inclusion of the region, which it still saw as belonging to its own sovereign area. 
-The annexation and the different interpretations of the border created the conditions for a conflict that went beyond simple territorial disagreements. As neither country was prepared to give up, it turned into a conflict of beliefs and pride in their countries.
-Since neither side was prepared to give in, diplomatic attempts to defuse the growing tensions failed. Both sides' rhetoric heated up, propelled by American Manifest Destiny zeal and Mexican resistance to what they saw as American invasion. Compromise was challenging because the Mexican government, which was already dealing with internal unrest, saw the conflict as an issue of national dignity and integrity.
-President James K. Polk, a fervent supporter of westward migration, asked Congress to declare war on Mexico, which was the turning point. Polk asserted—a claim that was contested by some who questioned the exact position of the border—that Mexican forces had invaded American territory and had killed Americans on American land. Still, Congress accepted the declaration of war in May 1846, and hostilities started.
-A perfect storm of historical grudges, geographical disputes, and nationalistic zeal culminated in the circumstances leading up to the start of the war in 1846. The Texas-Mexico border dispute and the Thornton Affair came to symbolize larger tensions that had been building for years and finally forced both countries into a full-fledged battle. 
-The complicated beginnings of the Mexican-American War would have a significant and enduring impact on North America's environment and politics.
+In the mid-19th century witnessed the culmination of tensions between the United States and Mexico, as a series of controversial events ignited the spark that would lead to the outbreak of the Mexican-American War in 1846. At the heart of these hostilities were long-standing disputes over the Texas-Mexico border, exacerbated by incidents like the Thornton Affair, which collectively pushed both nations to the brink of armed conflict.
+One of the critical incidents that heightened tensions was the Thornton Affair, a clash that occurred on April 25, 1846, along the disputed border between the Nueces River and the Rio Grande. American troops, led by Captain Seth Thornton, found themselves in a confrontation with Mexican forces. 
+
+
+The exact location of the border was a matter of contention, with the United States insisting on the Rio Grande as the boundary, while Mexico maintained that the Nueces River was the rightful demarcation line. The Thornton Affair, marked by a brief but intense skirmish, resulted in the death and capture of several American soldiers, further inflaming the already strained relations between the two nations.
+
+The disputed Texas-Mexico border was a powder keg awaiting ignition. The annexation of Texas by the United States in 1845 had been a contentious move, as Mexico vehemently opposed the incorporation of the territory it still considered part of its own sovereign land. The annexation, coupled with the divergent interpretations of the border, set the stage for a confrontation that extended beyond mere territorial disputes. It became a clash of ideologies and national pride, with both nations unwilling to back down.
+Diplomatic efforts to resolve the escalating tensions faltered, as neither side was willing to make concessions. The rhetoric on both sides intensified, fueled by the fervor of Manifest Destiny in the United States and Mexican resistance to what they perceived as American aggression. The Mexican government, already grappling with internal instability, viewed the dispute as a matter of national honor and integrity, making compromise difficult.
+
+The tipping point came when President James K. Polk, a strong advocate of westward expansion, sought a congressional declaration of war against Mexico. Polk argued that Mexican forces had crossed into U.S. territory, shedding American blood on American soil—an assertion disputed by those who questioned the precise location of the border. War (Knight 510). Nevertheless, in May 1846, Congress approved the declaration of war, and hostilities officially commenced.
+
+The U.S. used a 3-part strategy to battle Mexico with an Army of the West who stayed in New Mexico, Amry of the Center who stayed in northern Mexico, and the army of Occupation who attempted to take over Mexico City led by General Winfield Scott (Locks 1).
