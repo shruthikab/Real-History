@@ -3,10 +3,9 @@ title: Section 5
 metaTitle: "This is the title tag of this page"
 metaDescription: "Causes of WWI"
 ---
-Increase of Tensions
+## Increase of Tensions
 
-
-> ## What was the point where the Mexican-American tensions reached its peak?
+> What was the point where the Mexican-American tensions reached its peak?
 
 
 In the mid-19th century witnessed the culmination of tensions between the United States and Mexico, as a series of controversial events ignited the spark that would lead to the outbreak of the Mexican-American War in 1846. At the heart of these hostilities were long-standing disputes over the Texas-Mexico border, exacerbated by incidents like the Thornton Affair, which collectively pushed both nations to the brink of armed conflict.

@@ -21,3 +21,6 @@ The debates in Congress reflected the nation's internal struggles and the delica
 The Texas Question, with its intricate interplay of political maneuvering, regional interests, and the slavery debate, encapsulates the complexities of American expansionism in the mid-19th century. It serves as a microcosm of the broader ideological and geopolitical forces at play during this transformative period, shedding light on the challenges faced by a nation striving to reconcile its manifest destiny with the realities of a changing and contested landscape.
 
 
+> Texas disputed:
+*  John Gast painted American Progress in 1872. artist: John Gast Source: Library of Congress
+![ManifestDestiny](images/DisputedTexas.jpg)

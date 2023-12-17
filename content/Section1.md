@@ -18,6 +18,6 @@ In this complex web of historical forces, Section 1 sets the backdrop for the in
 
 > Ref: [title](paste link)
 
-> Ships:
-* The US had its fair share of weaponry and battleships:
-![BattleShips](images/BattleShips.jpg)
+> A summary of the final land ownership:
+* The Mexican Cession of the Treaty of Guadalupe Hidalgo, shown in white. The lands of the Gadsden Purchase are shown in brown. Author: National Atlas of the United States 
+![BattleShips](images/Mexicancess.jpg)
