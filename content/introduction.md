@@ -22,9 +22,9 @@ The Annexation of Texas
 Diplomatic Relations
 
 ## Section 5
-Heading 6 text
+Increase of Tensions
 
 ## Section 6
-References
+Conclusion
 
 
