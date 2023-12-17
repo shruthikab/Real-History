@@ -1,5 +1,5 @@
 ---
-title: Section 7
+title: Sources
 metaTitle: "This is the title tag of this page"
 metaDescription: "Section 7"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Section 3
+title: Section  3
 metaTitle: "This is the title tag of this page"
 metaDescription: "Causes of WWI"
 ---
 ## Annexation of Texas and Political Maneuvering 
 
-> How did the annexation of Texas play as a key contributer in the Mexican-American war?
+>How did the annexation of Texas play as a key contributer in the Mexican-American war?
 
 One of the most pivotal events that led to the Mexican-American War was the annexation of Texas. In the aftermath of Texas declaring its independence from Mexico in 1836, the United States found itself grappling with the multifaceted "Texas Question," a conundrum that tested the nation's unity and ignited impassioned debates on the domestic and international stage.
 

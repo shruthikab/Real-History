@@ -1,11 +1,11 @@
 ---
-title: Section 4
+title: Section  4
 metaTitle: "This is the title tag of this page"
 metaDescription: "Causes of WWI"
 ---
 ## Diplomatic Relations 
 
-> How did diplomatic efforts influence the growing tensions between Mexico and the United States?
+>How did diplomatic efforts influence the growing tensions between Mexico and the United States?
 
 In the mid-19th century, as the United States and Mexico grappled with the complex aftermath of territorial expansion and shifting political dynamics, diplomatic efforts became key to managing the escalating tensions. This section delves into the intricate web of political maneuvering and key events that strained relations between the two nations, such as the failed Slidell Mission and the contentious border dispute.
 The failed Slidell Mission of 1845 stands out as a pivotal moment in diplomatic history, illustrating the challenges faced by both nations in navigating their differences. John Slidell, a representative of the United States, was dispatched to Mexico with the objective of negotiating the purchase of disputed territories, including California and New Mexico. However, the mission failed along with the already strained relations between the two nations. Mexico, embroiled in its own internal conflicts and resentful of American expansionist ambitions, rejected Slidell's overtures. Mexico did not have a stable government and the president in 1845, Jose Joaquin Herrera, feared provoking a rebellion and wasn’t willing to negotiate the ownership of Texas with Americans (Castillo 7). 

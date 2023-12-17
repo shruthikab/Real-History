@@ -1,11 +1,11 @@
 ---
-title: Section 2
+title: Section  2
 metaTitle: "This is the title tag of this page"
 metaDescription: "Section 2"
 ---
 ## Ideologies
 
-> How did Manifest Destiny Influence Americans?
+>How did Manifest Destiny Influence Americans?
 
 Manifest Destiny, a potent ideological force that emerged in the early 19th century, was “the American ‘destiny to overspread the whole North American content with an immense democratic population’” (Castillo 4) as described by the creator of the term, John O’ Sullivan. This became a driving factor in shaping the trajectory of American expansionism. At its core, Manifest Destiny encapsulated the conviction that the United States was preordained by a higher power to extend its influence and territorial reach across the North American continent. This belief system not only provided a moral justification for westward expansion but also fueled a sense of entitlement and exceptionalism among Americans because they believed they were spreading “the benefits of democracy and freedom to the lesser people inhabiting the region” (Castillo 4). 
 

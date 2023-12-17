@@ -1,11 +1,11 @@
 ---
-title: Section 1
+title: Section  1
 metaTitle: "This is the title tag of this page"
 metaDescription: "Section 1"
 ---
 ## The Beginning
 
-> When did this narrative begin?
+>When did this narrative begin?
 
 The story begins in the early 18th century when the United States, fueled by the ideology of Manifest Destiny, aimed to expand westward, seeking to assert its influence and control over new territories. At this point, the Louisiana Purchase had already doubled the size of the country, further inspiring expansion. 
 
@@ -15,6 +15,6 @@ The United States, driven by a sense of destiny and fueled by a rapidly growing 
 As American settlers moved westward, tensions mounted, and conflicts began. Cultural, economic, and political differences exacerbated the situation, laying the groundwork for a conflict that would come to a head in the form of the Mexican-American War (Knight 516).
 In this complex web of historical forces, Section 1 sets the backdrop for the interplay between Mexican struggles for stability, and the collision of two nations on a quest for expansion and identity. 
 
-> A summary of the final land ownership:
+>  A summary of the final land ownership:
 * The Mexican Cession of the Treaty of Guadalupe Hidalgo, shown in white. The lands of the Gadsden Purchase are shown in brown. Author: National Atlas of the United States 
 ![BattleShips](images/Mexicancess.jpg)

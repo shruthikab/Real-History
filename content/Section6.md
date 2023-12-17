@@ -1,5 +1,5 @@
 ---
-title: Section 6
+title: Section  6
 metaTitle: "This is the title tag of this page"
 metaDescription: "Causes of WWI"
 ---
